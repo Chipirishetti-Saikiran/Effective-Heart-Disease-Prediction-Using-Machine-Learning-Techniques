@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8f4a658b-9bc0-4600-915c-cd5e63832ae3)# Effective-Heart-Disease-Prediction-Using-Machine-Learning-Techniques
+# Effective-Heart-Disease-Prediction-Using-Machine-Learning-Techniques
 Heart disease is one of the most significant causes of mortality in the world today. Prediction of cardiovascular disease is a critical challenge in the area of clinical data analysis. 
 Machine learning (ML) has been shown to be effective in assisting in making decisions and predictions from the large quantity of data produced by the healthcare industry.
 We have also seen ML techniques being used in recent developments in different areas of the Internet of Things (IoT). 
